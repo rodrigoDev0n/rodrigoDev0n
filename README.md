@@ -4,7 +4,8 @@
 ***
 
 - 🌱 I’m currently learning **React, node js**
-- - ⚡ Fun fact **I love play many video games**
+
+- ⚡ Fun fact **I love play many video games**
 
 
 <h3 align="center">Languages and Tools:</h3>
