@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Poblete &#127773</h1>
-<h3 align="center">A frontend developer from Chile</h3>
+<h3 align="center">A software developer from Chile</h3>
 
 ***
 
