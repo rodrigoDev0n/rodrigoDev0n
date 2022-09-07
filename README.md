@@ -3,7 +3,7 @@
 
 ***
 
-- 🌱 I’m currently learning **React, node js**
+- 🌱 I’m currently learning **React, node js, Angular, TypeScript**
 
 - ⚡ Fun fact **I love play many video games**
 
