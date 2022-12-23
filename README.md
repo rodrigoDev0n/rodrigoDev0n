@@ -2,9 +2,8 @@
 <h3 align="center">A software developer from Chile</h3>
 
 ***
-
-![githubpresent](https://user-images.githubusercontent.com/108855218/209350322-b2b7c25a-f08b-4232-91bc-908307b5911b.gif)
-
+![newGit](https://user-images.githubusercontent.com/108855218/209352146-75c4beb1-b070-451d-bddf-40c7891ed349.gif)
+***
 
 
 - 🌱 I’m currently learning **React, node js, Angular, TypeScript**
