@@ -77,7 +77,6 @@ Currently I'm focused on improving my knowledge in **software architecture, clou
 * 🐳 Refactoring my university thesis into a production-ready application.
 * ⚙️ Building a visual platform for Docker orchestration and application deployment.
 * 🤖 Exploring AI agents capable of analyzing repositories and generating study material.
-* ☁️ Deepening my knowledge of AWS and cloud-native architectures.
 
 ---
 
