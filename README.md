@@ -1,19 +1,92 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Poblete &#127773</h1>
-<h3 align="center">A software developer from Chile</h3>
+# Hi there 👋 I'm Rodrigo Poblete
 
-***
-![newGit](https://user-images.githubusercontent.com/108855218/209352146-75c4beb1-b070-451d-bddf-40c7891ed349.gif)
-***
+### Software Engineer from Chile 🇨🇱
 
+I'm a software engineer passionate about building software that solves real-world problems.
 
-- 🌱 I’m currently learning **React, node js, Angular, TypeScript**
+Over the last few years I've worked as a **Full Stack Developer**, building web applications, backend services, automation workflows and deployment pipelines. Along the way I discovered that I enjoy infrastructure, software architecture, DevOps and cloud technologies just as much as application development.
 
-- ⚡ Fun fact **I love play many video games**
+Currently I'm focused on improving my knowledge in **software architecture, cloud computing, distributed systems, AI-powered development and data engineering**.
 
+---
 
-<h3 align="center">Languages and Tools:</h3>
+## 🚀 About Me
 
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+* 💻 Software Engineer with professional experience building production applications.
+* 🏗️ Former Full Stack Developer at **BotKOfi**, contributing to ERP development, backend services, infrastructure and automation.
+* 🐳 Passionate about Docker, Linux, self-hosting and deployment automation.
+* 🤖 Interested in AI agents, LLMs, RAG systems and workflow automation.
+* 📊 Currently learning more about **AWS, Data Engineering, Distributed Systems and Cloud Architecture**.
+* 🌎 I enjoy building tools that reduce complexity for developers.
+* 🎮 Outside programming I enjoy video games and continuously learning new technologies.
 
+---
 
-***
+## 🛠️ Technologies
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase" />
+</p>
+
+### DevOps & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,bash" />
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,postman" />
+</p>
+
+---
+
+## 📌 What I like working on
+
+* Full Stack Applications
+* REST APIs
+* Microservices
+* Docker & Docker Compose
+* Linux Servers
+* Deployment Automation
+* Web Scraping
+* AI Integrations
+* Infrastructure
+* Software Architecture
+* Data Processing
+
+---
+
+## 📂 Current Projects
+
+* 🐳 Refactoring my university thesis into a production-ready application.
+* ⚙️ Building a visual platform for Docker orchestration and application deployment.
+* 🤖 Exploring AI agents capable of analyzing repositories and generating study material.
+* ☁️ Deepening my knowledge of AWS and cloud-native architectures.
+
+---
+
+## 📫 Contact
+
+* GitHub: **https://github.com/rodrigoDev0n**
+* Email: **[pobletedev@gmail.com](mailto:pobletedev@gmail.com)**
+
+---
+
+> *"The best way to learn software engineering is by building software."*
+
