@@ -86,6 +86,3 @@ Currently I'm focused on improving my knowledge in **software architecture, clou
 * Email: **[pobletedev@gmail.com](mailto:pobletedev@gmail.com)**
 
 ---
-
-> *"The best way to learn software engineering is by building software."*
-
